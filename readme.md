@@ -16,7 +16,7 @@ The **Weather Lookup App** was created as a practice project to enhance skills i
 ## How to Use
 
 1. Clone this repository to your local machine.
-2. Obtain an API key from [OpenWeather](https://openweathermap.org/api) and replace `'YOUR_API_KEY'` in `app.js` with your actual API key.
+2. Obtain an API key from [OpenWeather](https://openweathermap.org/api) and replace YOUR API KEY in `app.js` with your actual API key.
 3. Open a terminal and navigate to the project directory.
 4. Run `npm install` to install the required dependencies.
 5. Start the server by running `node app.js`.
